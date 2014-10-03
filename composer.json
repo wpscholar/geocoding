@@ -1,0 +1,14 @@
+{
+	"name": "wpscholar/geocoding",
+	"description": "A geocoding module for use with WordPress",
+	"license": "GPL-3.0",
+	"type": "library",
+	"authors": [
+		{
+			"name": "Micah Wood",
+			"email": "micah@wpscholar.com",
+			"homepage": "http://wpscholar.com",
+			"role": "Developer"
+		}
+	]
+}
